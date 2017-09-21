@@ -15,6 +15,6 @@ We evalute this model on Shift-Noised MNIST dataset
 <img src='figs/dataset.PNG'>
 
 ## Result
-- Answering Accuracies (\%) for bAbI tasks 
+- Classification Accuracies (\%) 
 <img src='figs/table.PNG'>
 
