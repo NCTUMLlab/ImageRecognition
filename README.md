@@ -1,6 +1,6 @@
-# Deep Supporting Attention in Memory Network for Question Answering
-In this project, we introduce Supporting Attention into Memory Network.
-We evalute this model on bAbI dataset
+# Deep Supporting Attention in Transformer Network for Image Recognition
+In this project, we introduce Supporting Attention into Transformer Network.
+We evalute this model on Shift-Noised MNIST dataset
 
 <img src='figs/model.PNG' width=50%>
 
@@ -11,8 +11,8 @@ We evalute this model on bAbI dataset
 
 - Keras
 
-- Dataset:
-    - bAbI: https://research.fb.com/downloads/babi/
+## Data example
+<img src='figs/dataset.PNG'>
 
 ## Result
 - Answering Accuracies (\%) for bAbI tasks 
